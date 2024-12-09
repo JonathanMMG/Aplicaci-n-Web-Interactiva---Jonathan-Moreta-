@@ -1,0 +1,101 @@
+#comparacion, #switch, #array {
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+}
+
+#comparacion h2, #switch h2, #array h2 {
+    text-align: center;
+    color: #555;
+}
+
+#comparacion input, #switch input, #array input {
+    width: 100%;
+    max-width: 300px;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: block;
+}
+
+button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    display: block;
+    margin: 10px auto;
+}
+
+button:hover {
+    background-color: #575757;
+}
+
+#resultado, ul {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 1.1rem;
+    color: #333;
+}
+
+#array {
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+}
+
+#array h2 {
+    text-align: center;
+    color: #333;
+}
+
+#array input {
+    width: 100%;
+    max-width: 300px;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: block;
+}
+
+#array button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    display: block;
+    margin: 10px auto;
+}
+
+#array button:hover {
+    background-color: #0056b3;
+}
+
+#listaNombres {
+    margin-top: 10px;
+    padding: 0;
+    list-style: none;
+    text-align: left;
+    max-width: 300px;
+    margin: 10px auto;
+}
+
+#listaNombres li {
+    margin: 5px 0;
+    padding: 8px;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+}
+
